@@ -1,4 +1,4 @@
-# homework_1
+# homework1
 Code repository for Homework 1
 
 You can use command line to fork the code or you can use the download option.
